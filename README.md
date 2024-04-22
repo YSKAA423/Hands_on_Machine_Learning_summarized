@@ -1,5 +1,5 @@
 # Hands_on_Machine_Learning_summarized-
-This series of summaries have been a part of my internship at shai as a machine learning engineer.
+This series of summaries have been a part of my internship at [Shai for ai](https://www.linkedin.com/company/shaiforai/) as a machine learning engineer.
 
 Chapter 1 Summary - Key Points:
 
